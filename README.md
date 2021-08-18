@@ -9,6 +9,8 @@ The testing and debugging of the program plus the addition of new functions is m
 
 I have measure the accuracy on temperatures readings and voltage charge sensing and the device is very accurate. For example only +- 0.05 to +- 0.10  volts accuracy error on 12V voltage measure and +- 2 celsius grads on temperatures readings. Same excellent results on speedometer speed, tachometer RPMs and gear indication.
 
+https://youtu.be/BUtrke2C834
+
 For the gear indicator the same speed sensor on speedometer module is in use. The count of pulses on front wheel for speed calculation is quantified at 6 pulses (60 grads) per wheel rotation using an infrared sensor and 6 white strips. Due the small speed ratio on 5th and 6th gear the device is a bit inaccurate leading on some circumstances to a mismatch on 6th gear indication (sometimes and very rare changes between 6 and 5 when 6th speed is selected). One easy solution for this small issue is to increase the counter window for a better accuracy, but by the other hand this step will lead to a high delay or latency on the refresh rate. Another solution is to install an improved speed sensor on the front wheel but here the motorcycle original design should be strongly modified because a special codified disk should to be attached on the front wheel. Taking all this stuff into account we can say that the 6th indication issue is not so critical and can be accepted. To conclude I'm very satisfied with the final results on the GPX 600 digital dashboard project !!!
 
 Please check my previous post that shows the other modules and sensors in action -> http://alfredoblogspage.blogspot.com.ar/2010/03/new-panel-board-for-my-motorcycle.html
