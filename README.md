@@ -3,6 +3,8 @@ Kawasaki GPX600 dashboard for measuring temperatures and voltages in real-time
 
 I finish in april 2010 the GLCD digital dashboard development installing it on my motorcycle for testing purpouses. The first impression was happiness because it looks great and works very well !!!. The measuring of parameters in a digital way is a great progress that technology offers in this world of microcontrollers and technology devices.
 
+Here the latest video of the finished project in 2020 adding a digital thermostat and MPU6050 accelerometer on the top -> https://youtu.be/gClL3klPd6k
+
 The testing and debugging of the program plus the addition of new functions is my next task. At the moment the GLCD dashboard is ready to measure temperature in 4 locations: engine, radiator, oil pan, air filter box using the 10 bits ADC converter. The additional information in the updates screens are the battery charge voltage, the fuel tank gasoline level, and the low oil pressure warning using the factory oil pressure sensor.
 
 I have measure the accuracy on temperatures readings and voltage charge sensing and the device is very accurate. For example only +- 0.05 to +- 0.10  volts accuracy error on 12V voltage measure and +- 2 celsius grads on temperatures readings. Same excellent results on speedometer speed, tachometer RPMs and gear indication.
