@@ -17,6 +17,10 @@ The motorcycle with the digital dashboard looks very futuristic !!. Some friends
 
 So, the best way to show my happiness is with pictures and a video.
 
+https://youtu.be/Nr60ZzgX88c
+
+https://youtu.be/IfyYGeAWg6M
+
 The final program release in C language and schematics diagrams are below. The 18F452 is a RISC microprocessor with 70 instructions enough for development of middle complex solutions. On the code design I have simulated the entire project on ISIS Proteus 7 successfully, but on hardware testing I found some issues on the mathematical calculations maybe due logic core erratas.
 
 Below  the final release in C language with all issues fixed for everyone, the same code that runs today on my GPX600. Enjoy!
