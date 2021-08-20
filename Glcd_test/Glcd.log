@@ -1,0 +1,17 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877 -GC -DL -O11111114 -fo8 -N"C:\Documents and Settings\Alfredo\Desktop\New Folder (2)\EasyPIC5 mikroC PRO examples (P16F887)\Glcd\Glcd.mcppi" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Documents and Settings\Alfredo\Desktop\New Folder (2)\EasyPIC5 mikroC PRO examples (P16F887)\Glcd\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Examples\EasyPIC5 mikroC PRO examples (P16F887)\Glcd\" "Bitmap.c" "Glcd.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Examples\EasyPIC5 mikroC PRO examples (P16F887)\Glcd'	 
+hint: 0	1138	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 62 ms	 
+diagnostics: 0	122	Compilation Started	Bitmap.c
+diagnostics: 71	123	Compiled Successfully	Bitmap.c
+diagnostics: 0	122	Compilation Started	Glcd.c
+diagnostics: 237	123	Compiled Successfully	Glcd.c
+diagnostics: 0	127	All files Compiled in 172 ms	 
+hint: 0	1143	Used RAM (bytes): 69 (20%)  Free RAM (bytes): 283 (80%)	Used RAM (bytes): 69 (20%)  Free RAM (bytes): 283 (80%)
+hint: 0	1143	Used ROM (program words): 3133 (38%)  Free ROM (program words): 5059 (62%)	Used ROM (program words): 3133 (38%)  Free ROM (program words): 5059 (62%)
+diagnostics: 0	125	Project Linked Successfully	Glcd.mcppi
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 609 ms	 
+diagnostics: 0	129	Project 'Glcd.mcppi' completed: 968 ms	 
+diagnostics: 0	103	Finished successfully: 31 Mar 2010, 01:39:38	Glcd.mcppi
