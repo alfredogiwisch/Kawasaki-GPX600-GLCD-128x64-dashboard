@@ -1,6 +1,8 @@
 # Kawasaki-GPX600-GLCD-128x64-dashboard
 Kawasaki GPX600 dashboard for measuring temperatures and voltages in real-time
 
+The latest changes 2023 on the dashboard in this video -> https://www.youtube.com/watch?v=nPoxWemPIDs
+
 I finish in april 2010 the GLCD digital dashboard development installing it on my motorcycle for testing purpouses. The first impression was happiness because it looks great and works very well !!!. The measuring of parameters in a digital way is a great progress that technology offers in this world of microcontrollers and technology devices.
 
 Here the latest video of the finished project in 2020 adding a digital thermostat and MPU6050 accelerometer on the top -> https://youtu.be/gClL3klPd6k
